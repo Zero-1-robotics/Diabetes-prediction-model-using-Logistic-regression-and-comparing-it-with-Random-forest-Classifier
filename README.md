@@ -1,0 +1,1 @@
+# Diabetes-prediction-model-using-Logistic-regression-and-comparing-it-with-Random-forest-Classifier
